@@ -1,4 +1,9 @@
 # Program-Hasil-Penyeleksian
+
+Nama  : Yahya Alfon Sinaga
+Kelas : X - TKI 5
+Divisi: DESKTOP PROGRAMMING
+
 Program ini bertujuan untuk melihat hasil penyeleksian coding untuk kepenjurusan di kelas 11
 
 Program ini bertujuan untuk melihat hasil penyeleksian coding untuk kepenjurusan di kelas 11, saya menggunakan data dari Kelas TKI 4 dan TKI 5.
